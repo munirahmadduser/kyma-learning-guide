@@ -12,7 +12,7 @@ This is a simple guide and still in its initial setup phase.
 
 - [Faq](#faq)
 
-  - [What’s your IDE?](#What-is-your-IDE?)
+  - [What is your IDE?](#What-is-your-IDE?)
   - [q2](#q2)
   - [q3](#q3)
   
