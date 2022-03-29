@@ -3,6 +3,7 @@ This is a simple guide and still in its initial setup phase.
 
 ##### Content
 -[Kyma job openings at SAP](#Jobs)
+
 -[Learning Paths](./Learning-Paths.md)
 
 
