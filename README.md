@@ -8,6 +8,16 @@ This is a simple guide and still in its initial setup phase.
   
   - [Developer](#developers)
   - [Product Owners](#productowners)
+  - [Managers](#managers)
+
+- [Faq](#faq)
+
+  - [Q1](#q1)
+  - [q2](#q2)
+  - [q3](#q3)
+  
+  
+  
 
 
 
