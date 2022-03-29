@@ -12,7 +12,7 @@ This is a simple guide and still in its initial setup phase.
 
 - [Faq](#faq)
 
-  - [What’s your IDE?](#q1)
+  - [What’s your IDE?](#What’s-your-IDE?)
   - [q2](#q2)
   - [q3](#q3)
   
@@ -34,6 +34,6 @@ Please check this [link](https://jobs.sap.com/search/?createNewAlert=false&q=%23
 
 ### Faq
 
-#### Q1 
+#### What’s your IDE? 
 
 #### Q2
