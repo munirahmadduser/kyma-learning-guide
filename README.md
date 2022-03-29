@@ -7,7 +7,7 @@ This is a simple guide and still in its initial setup phase.
 - [Learning Paths](#Learning-Paths.md)
   
   - [Developer](#developers)
-  - [Product Owners](#product owners)
+  - [Product Owners](#productowners)
 
 
 
