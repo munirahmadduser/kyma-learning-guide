@@ -4,10 +4,10 @@ This is a simple guide and still in its initial setup phase.
 ## Content
 - [Kyma job openings at SAP](#Jobs)
 
-- [Learning Paths](#LearningPaths)
+- [Learning Paths](#Learning Paths)
   
   - [Developer](#developers)
-  - [Product Owners](#productowners)
+  - [Product Owners](#product owners)
   - [Managers](#managers)
 
 - [Faq](#faq)
