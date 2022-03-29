@@ -11,10 +11,6 @@ This is a simple guide and still in its initial setup phase.
   - [Managers](#managers)
 
 - [Faq](#faq)
-
-  - [What is your IDE?](#question1)
-  - [q2](#q2)
-  - [q3](#q3)
   
   
   
@@ -34,8 +30,8 @@ Please check this [link](https://jobs.sap.com/search/?createNewAlert=false&q=%23
 
 ### Faq
 
-#### Question1 
- What is your IDE?
+#### What is your IDE?
+ 
  Nothing is enforced. People often use GoLand, Visual Studio Code, VIM 
 
 #### Q2
