@@ -6,7 +6,7 @@ This is a simple guide and still in its initial setup phase.
 
 - [Learning Paths](#Learning-Paths)
   
-  - [Developer](./developers.md)
+  - [Developer](../Developers.md)
   - [Product Owners](#product-owners)
   - [Managers](#managers)
 
