@@ -1,4 +1,4 @@
-# kyma-learning-guide
+# How to become a Kyma Developer
 This is a simple guide and still in its initial setup phase.
 
 ## Content
