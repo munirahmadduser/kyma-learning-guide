@@ -15,7 +15,7 @@ This is a simple guide and still in its initial setup phase.
   - [Programming skills](#programming-skills)
   
 - [Getting Started](#Getting-Started)
-  - [links Table](#table)  
+  - [Source 1](#source1)  
 - [Examples](#Examples)
 - [Reading to Contribute](#ready)
   
@@ -38,7 +38,8 @@ This is a simple guide and still in its initial setup phase.
 
 ### Getting Started
    Some text about getting started 
-   
+
+#### Source 1
    Please follow this [link](https://kyma-project.io/docs/kyma/latest/02-get-started/) to start setting up Kyma.
 
 ### Examples
