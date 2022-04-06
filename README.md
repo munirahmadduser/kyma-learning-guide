@@ -15,7 +15,7 @@ This is a simple guide and still in its initial setup phase.
   - [Programming skills](#programming-skills)
   
 - [Getting Started](#Getting-Started)
-  - [Source 1](#source1)  
+  - [Source 1](#source-1)  
 - [Examples](#Examples)
 - [Reading to Contribute](#ready)
   
