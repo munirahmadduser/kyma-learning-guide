@@ -5,6 +5,9 @@ This is a simple guide and still in its initial setup phase.
 
 
 - [Prerequisite Knowledge](#Prerequisite-Knowledge)
+- [Getting Started](#Getting-Started)
+- [Examples](#Examples)
+- [Reading to Contribute](#ready)
   
 - [Kyma job openings at SAP](#Jobs)
 
@@ -22,6 +25,12 @@ This is a simple guide and still in its initial setup phase.
 #### Kyma skills
 
 #### Programming skills
+
+### Getting Started
+
+### Examples
+
+### Reading to Contribute
 
 ### Jobs
 
