@@ -38,6 +38,8 @@ This is a simple guide and still in its initial setup phase.
 
 ### Getting Started
    Some text about getting started 
+   
+   Please follow this [link](https://kyma-project.io/docs/kyma/latest/02-get-started/) to start setting up Kyma.
 
 ### Examples
   Link to the same repo example page 
@@ -47,7 +49,7 @@ This is a simple guide and still in its initial setup phase.
 
 Please check this [link](https://jobs.sap.com/search/?createNewAlert=false&q=%23kymaopensource&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=&locationsearch=) for all the Kyma related jobs at [SAP](https://www.sap.com/about/careers.html)
 
-### Faq
+### Faqs
 
 #### What is your IDE?
  
