@@ -5,6 +5,11 @@ This is a simple guide and still in its initial setup phase.
 
 
 - [Prerequisite Knowledge](#Prerequisite-Knowledge)
+  -[Docker Skills](#docker-skills)
+  -[Kubernetes skills](#kubernetes-skills)
+  -[Kyma skills](#kyma-skills)
+  -[Programming skills](#programming-skills)
+  
 - [Getting Started](#Getting-Started)
 - [Examples](#Examples)
 - [Reading to Contribute](#ready)
