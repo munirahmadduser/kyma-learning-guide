@@ -15,6 +15,7 @@ This is a simple guide and still in its initial setup phase.
   - [Programming skills](#programming-skills)
   
 - [Getting Started](#Getting-Started)
+  - [links Table](#table)  
 - [Examples](#Examples)
 - [Reading to Contribute](#ready)
   
@@ -27,7 +28,7 @@ This is a simple guide and still in its initial setup phase.
 
 ### Prerequisite Knowledge
 
-#### docker Skills
+#### Docker Skills
 
 #### Kubernetes skills 
 
@@ -36,11 +37,12 @@ This is a simple guide and still in its initial setup phase.
 #### Programming skills
 
 ### Getting Started
+   Some text about getting started 
 
 ### Examples
-
+  Link to the same repo example page 
 ### Reading to Contribute
-
+  Hellow world Example to contribute
 ### Jobs
 
 Please check this [link](https://jobs.sap.com/search/?createNewAlert=false&q=%23kymaopensource&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=&locationsearch=) for all the Kyma related jobs at [SAP](https://www.sap.com/about/careers.html)
