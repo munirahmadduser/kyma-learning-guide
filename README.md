@@ -21,8 +21,8 @@ This is a simple guide and still in its initial setup phase.
   
 - [Kyma job openings at SAP](#Jobs)
 
-- [Faq](#faq)
-  
+- [Faqs](#faqs)
+- [Helpful tools](#Helpful-Tools) 
   
   
 
@@ -63,3 +63,8 @@ Classical Go runner, Gomega, Testify
 https://go.dev/learn/
 
 http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
+
+### Helpful Tools
+#### One lang
+You can use any language you are expert on to learn any other languguage. this tool helps you to convert code from one language to any other language e.g Javascript --> Go 
+https://ide.onelang.io/?input=HelloWorldRaw
