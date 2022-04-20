@@ -68,3 +68,6 @@ http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
 #### One lang
 You can use any language you are expert on to learn any other languguage. this tool helps you to convert code from one language to any other language e.g Javascript --> Go 
 https://ide.onelang.io/?input=HelloWorldRaw
+
+-> Youtube 
+https://www.youtube.com/watch?v=wqQflgmyboY&list=PLmZLSvJAm8FabPF4hLjScx-dDl84NK3l5
