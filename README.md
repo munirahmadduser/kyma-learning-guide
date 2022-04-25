@@ -50,6 +50,9 @@ Architecture Base Pattern Understanding
 
 #### Kubernetes skills 
 
+  - Architecture
+      https://shipit.dev/posts/kubernetes-overview-diagrams.html
+
 #### Kyma skills
 
 #### Programming skills
