@@ -28,6 +28,9 @@ This is a simple guide and still in its initial setup phase.
 
 ### Prerequisite Knowledge
 
+- Mural Learning path   https://app.mural.co/t/sappm1454/m/sappm1454/1623833112208/70a6f14316e3f216ed2e1a62cfbdd33498af9686
+
+
 Kubernetes Training (CKAD Level preferred, deep knowledge about Kubernetes Control Loop and important Design Patterns like Sidecar / Init Containers)
 
 Kyma Component Knowledge (Knowledge about different Kyma Components as Open Source Parts)
