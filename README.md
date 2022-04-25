@@ -28,6 +28,24 @@ This is a simple guide and still in its initial setup phase.
 
 ### Prerequisite Knowledge
 
+Kubernetes Training (CKAD Level preferred, deep knowledge about Kubernetes Control Loop and important Design Patterns like Sidecar / Init Containers)
+
+Kyma Component Knowledge (Knowledge about different Kyma Components as Open Source Parts)
+
+necessary to be fluent with jq,yq, grep etc. ; CLI / Terminal confident use
+
+High Level Knowledge about Gardener Architecture - enough to interact with it
+
+Deep Go Understanding, especially regarding Dependency Management and Go Modules
+
+Shellscript Experience, all our tooling is written in sh
+
+CI/CD Experience, Ideally Prow
+
+Process Understanding of Agile and Escalation Management
+
+Architecture Base Pattern Understanding
+
 #### Docker Skills
 
 #### Kubernetes skills 
